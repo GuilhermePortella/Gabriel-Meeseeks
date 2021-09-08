@@ -5,3 +5,4 @@
 </div>
   ![Snake animation](https://github.com/Gabriel-Meeseeks/Gabriel-Meeseeks/blob/output/github-contribution-grid-snake.svg)
 
+
